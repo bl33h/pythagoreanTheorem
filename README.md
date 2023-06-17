@@ -52,5 +52,3 @@ Alternatively, you can run the code using Google Colab:
 5. Follow the instructions within the Colab notebook to execute the code.
 
 Note: Running the code in Google Colab requires an internet connection and a Google account. It provides a convenient online environment for executing code without the need for local setup or dependencies.
-
-Make sure to adjust the instructions based on your repository structure and any additional details specific to running the code in Google Colab.
