@@ -3,7 +3,7 @@ A CUDA program that calculates the Pythagorean theorem for a large number of ele
 
 <p align="center">
   <br>
-  <img src="https://www.media4math.com/sites/default/files/library_asset/images/PythagoreanTheorem--1.gif" alt="pic" width="500">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Pythagoras-2a.gif" alt="pic" width="500">
   <br>
 </p>
 <p align="center" >
